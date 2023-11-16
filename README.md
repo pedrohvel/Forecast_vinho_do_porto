@@ -16,10 +16,4 @@ Diversos modelos foram treinados, incluindo o AutoMLRegressor da biblioteca auto
 ## Notebooks Principais
 - [RedWineForecast_pRq.ipynb](Inserir_Link_do_Notebook_Aqui)
 
-## Como Contribuir
-Fique à vontade para explorar o código, experimentar diferentes modelos ou propor melhorias na análise exploratória. Contribuições são sempre bem-vindas!
-
-## Autor
-Seu Nome Aqui
-
 🍇🍷🚀 #MachineLearning #VinhoDoPorto #Forecasting #DataScience
